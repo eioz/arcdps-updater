@@ -1,1 +1,1 @@
-``iwr('https://raw.githubusercontent.com/eioz/arcdps-updater/main/update_arcdps.ps1')|iex``
+``powershell -c "iwr('https://raw.githubusercontent.com/eioz/arcdps-updater/main/update_arcdps.ps1')|iex"``
